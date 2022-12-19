@@ -24,7 +24,7 @@ Bachelor's Degree in Exact and Technological Sciences and Bachelor's Degree in C
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [SEAD - NUTEIN](https://www2.ufrb.edu.br/ead/fale-conosco)  
+- 🔭 I’m currently working on [TURIM](https://www.turimsoft.com.br/site/)  
   
 
 - 🎓  I'm a computer engineering student at [UFRB](https://ufrb.edu.br/portal/)  
